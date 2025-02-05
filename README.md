@@ -85,7 +85,7 @@ This project was developed by Muhammad Suliman as a demonstration of text-to-aud
 [Specify your license here, e.g., MIT License]
 
 ## Contact
-For further inquiries, please contact Muhammad Suliman at [your.email@example.com].
+For further inquiries, please contact Muhammad Suliman at [Sulimangorsi623@gmail.com].
 ```
 
 ---
